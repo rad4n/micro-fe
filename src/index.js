@@ -7,4 +7,4 @@ for (let i = 0; i < 3; i++) {
     articles += `<div>${title}</div>`
 }
 
-console.log('test', articles)
+console.log('test2', articles)
